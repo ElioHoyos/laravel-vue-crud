@@ -1,0 +1,29 @@
+[33mcommit e49e416286056339813a70262600e43102703bfb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ElioHoyos <elio18david@gmail.com>
+Date:   Mon Mar 30 21:27:23 2020 -0500
+
+    Eliminar Vuejs | axios
+
+[33mcommit a6464d30686dfd08dac18c64e204ea0984b78db6[m
+Author: ElioHoyos <elio18david@gmail.com>
+Date:   Mon Mar 30 19:33:40 2020 -0500
+
+    listado de datos en vuejs
+
+[33mcommit b3763ca64eac08ad4b3cbf826e9ba0a7dffb873d[m
+Author: ElioHoyos <elio18david@gmail.com>
+Date:   Mon Mar 30 17:36:57 2020 -0500
+
+    migraciones y controladores
+
+[33mcommit b206e9f6220d28401acc837db6b2cb933643226f[m
+Author: ElioHoyos <elio18david@gmail.com>
+Date:   Mon Mar 30 01:17:33 2020 -0500
+
+    laravel-mix
+
+[33mcommit 40a0448ae764daf3cdfc83e43741af7b28f04170[m
+Author: ElioHoyos <elio18david@gmail.com>
+Date:   Sun Mar 29 20:22:15 2020 -0500
+
+    proyecto inicio
